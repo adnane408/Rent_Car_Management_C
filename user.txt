@@ -1,0 +1,31 @@
+length : 5
+{
+ name : mohammed ,
+ cin : f1332 ,
+ password : test ,
+ id: 1234
+}
+{
+ name : test2 ,
+ cin : f1234 ,
+ password : test2 ,
+ id: 6500
+}
+{
+ name : mohammed ,
+ cin : f12345 ,
+ password : test3 ,
+ id: 41
+}
+{
+ name : ASMAE ,
+ cin : FH62008 ,
+ password : newme ,
+ id: 7826
+}
+{
+ name : , ,
+ cin : FH62008 ,
+ password : AZED ,
+ id: 7826
+}
